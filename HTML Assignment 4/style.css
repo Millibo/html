@@ -1,0 +1,31 @@
+body {
+	background-color:black;
+	color:#fff2ff;
+}
+table {
+	width:100%;
+	background-color: lightgreen;
+	border: 3px dotted red;
+	text-align:left;
+}
+th {
+	color:red;
+	border: 2px solid cyan;
+	padding: 5px;	
+}
+td {
+	color:blue;
+	border: 2px solid cyan;
+	padding: 5px;	
+}
+caption {
+	color:#ffffff;
+	font-size:150%;
+	font-family:impact;
+}
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%
+}
