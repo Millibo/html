@@ -1,0 +1,22 @@
+body {
+    padding: 0;
+    margin: 0;
+    background: #000000;
+}
+.navbar {
+    background:#868686;
+}
+.nav-link,
+.navbar-brand {
+    color: #fff;
+    cursor: pointer;
+}
+.nav-link {
+    margin-right: 1em !important;
+}
+.nav-link:hover {
+    color: rgb(161, 1, 1);
+}
+.navbar-collapse {
+    justify-content: flex-end;
+}
